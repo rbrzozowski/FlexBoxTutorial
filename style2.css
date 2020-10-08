@@ -340,7 +340,7 @@ header .header-cases {
 }
 
 /*CASES*/
-
+/*
 .cases-links	{
 	overflow: hidden;
 	margin-bottom: 20px;
@@ -373,9 +373,23 @@ header .header-cases {
 	text-align: center;
 	text-transform: uppercase;
 }
+*/
+
+/*GALLERY*/
+
+.gallery-links-h2	{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 28px;
+	font-weight: 600;
+	/*font-style: normal;*/
+	color: #111;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 20px;
+}
+
 
 /*CONTACT ME*/
-
 .contact-me {
 	float: left;
 	width: 100%;
